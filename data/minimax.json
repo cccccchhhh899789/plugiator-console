@@ -1,0 +1,320 @@
+{
+ "plugin": "Minimax",
+ "pc": 101,
+ "cc": [
+  {
+   "cc": 1,
+   "name": "Modulation"
+  },
+  {
+   "cc": 5,
+   "name": "Glide Time"
+  },
+  {
+   "cc": 7,
+   "name": "Plugiator Device Volume"
+  },
+  {
+   "cc": 10,
+   "name": "Delay Dry/Wet"
+  },
+  {
+   "cc": 11,
+   "name": "Preset Volume"
+  },
+  {
+   "cc": 13,
+   "name": "Amp Env Attack"
+  },
+  {
+   "cc": 14,
+   "name": "Amp Env Decay"
+  },
+  {
+   "cc": 15,
+   "name": "Amp Env Sustain"
+  },
+  {
+   "cc": 16,
+   "name": "Osc2 Range"
+  },
+  {
+   "cc": 17,
+   "name": "Vd Env Attack"
+  },
+  {
+   "cc": 18,
+   "name": "Vd Env Decay"
+  },
+  {
+   "cc": 19,
+   "name": "Vd Env Sustain"
+  },
+  {
+   "cc": 20,
+   "name": "Osc3 Range"
+  },
+  {
+   "cc": 21,
+   "name": "Tune"
+  },
+  {
+   "cc": 22,
+   "name": "Osc Modulation"
+  },
+  {
+   "cc": 23,
+   "name": "Pitch AT"
+  },
+  {
+   "cc": 24,
+   "name": "Bend Range"
+  },
+  {
+   "cc": 25,
+   "name": "Osc1 Volume"
+  },
+  {
+   "cc": 26,
+   "name": "Osc2 Volume"
+  },
+  {
+   "cc": 27,
+   "name": "Osc3 Volume"
+  },
+  {
+   "cc": 28,
+   "name": "Osc1 Switch"
+  },
+  {
+   "cc": 29,
+   "name": "Osc2 Switch"
+  },
+  {
+   "cc": 30,
+   "name": "Osc3 Switch"
+  },
+  {
+   "cc": 33,
+   "name": "Noise Volume"
+  },
+  {
+   "cc": 34,
+   "name": "Noise Switch"
+  },
+  {
+   "cc": 35,
+   "name": "Noise Type"
+  },
+  {
+   "cc": 36,
+   "name": "External Volume"
+  },
+  {
+   "cc": 37,
+   "name": "External Switch"
+  },
+  {
+   "cc": 38,
+   "name": "Synth Feedback"
+  },
+  {
+   "cc": 47,
+   "name": "Vd Modulation"
+  },
+  {
+   "cc": 48,
+   "name": "Vd Kybd Ctrl1"
+  },
+  {
+   "cc": 49,
+   "name": "Vd Kybd Ctrl2"
+  },
+  {
+   "cc": 50,
+   "name": "Vd AT"
+  },
+  {
+   "cc": 51,
+   "name": "Amp AT"
+  },
+  {
+   "cc": 56,
+   "name": "MW Intensity"
+  },
+  {
+   "cc": 57,
+   "name": "MW Offset"
+  },
+  {
+   "cc": 58,
+   "name": "Modulation Mix"
+  },
+  {
+   "cc": 59,
+   "name": "Env Decay"
+  },
+  {
+   "cc": 60,
+   "name": "Env Retrig"
+  },
+  {
+   "cc": 61,
+   "name": "Low Note Priority"
+  },
+  {
+   "cc": 64,
+   "name": "Sustain Pedal"
+  },
+  {
+   "cc": 65,
+   "name": "Glide Switch"
+  },
+  {
+   "cc": 66,
+   "name": "Sostenuto"
+  },
+  {
+   "cc": 67,
+   "name": "Soft Pedal"
+  },
+  {
+   "cc": 68,
+   "name": "Single Mode"
+  },
+  {
+   "cc": 71,
+   "name": "Emphasis"
+  },
+  {
+   "cc": 72,
+   "name": "Osc2 Frequency"
+  },
+  {
+   "cc": 73,
+   "name": "Amount of Contour"
+  },
+  {
+   "cc": 74,
+   "name": "Cutoff"
+  },
+  {
+   "cc": 79,
+   "name": "Osc1 Range"
+  },
+  {
+   "cc": 80,
+   "name": "Osc1 Waveform"
+  },
+  {
+   "cc": 81,
+   "name": "Amp Env Velocity"
+  },
+  {
+   "cc": 83,
+   "name": "Osc2 Waveform"
+  },
+  {
+   "cc": 84,
+   "name": "Vd Env Velocity"
+  },
+  {
+   "cc": 85,
+   "name": "Osc3 Frequency"
+  },
+  {
+   "cc": 86,
+   "name": "Osc3 Waveform"
+  },
+  {
+   "cc": 87,
+   "name": "Osc3 Control"
+  },
+  {
+   "cc": 91,
+   "name": "Ch. Dry/Wet"
+  },
+  {
+   "cc": 93,
+   "name": "Synth / Mic Volume"
+  },
+  {
+   "cc": 119,
+   "name": "Delay Feedback"
+  },
+  {
+   "cc": 120,
+   "name": "All Sounds Off"
+  }
+ ],
+ "pat": [
+  {
+   "pat": 71,
+   "name": "Chorus Rate"
+  },
+  {
+   "pat": 72,
+   "name": "Chorus Phase"
+  },
+  {
+   "pat": 73,
+   "name": "Chorus Depth"
+  },
+  {
+   "pat": 74,
+   "name": "Chorus Feedback"
+  },
+  {
+   "pat": 75,
+   "name": "Chorus/Flanger"
+  },
+  {
+   "pat": 81,
+   "name": "Delay Time Left"
+  },
+  {
+   "pat": 82,
+   "name": "Delay Rate Left"
+  },
+  {
+   "pat": 84,
+   "name": "Delay Damp Left"
+  },
+  {
+   "pat": 85,
+   "name": "Delay Level Left"
+  },
+  {
+   "pat": 86,
+   "name": "Delay BPM Left"
+  },
+  {
+   "pat": 91,
+   "name": "Delay Cross"
+  },
+  {
+   "pat": 92,
+   "name": "Delay Time Right"
+  },
+  {
+   "pat": 93,
+   "name": "Delay Rate Right"
+  },
+  {
+   "pat": 95,
+   "name": "Delay Damp Right"
+  },
+  {
+   "pat": 96,
+   "name": "Delay Level Right"
+  },
+  {
+   "pat": 97,
+   "name": "Delay BPM Right"
+  },
+  {
+   "pat": 98,
+   "name": "Effect Bypass"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+build/
+release/
+._*
+.DS_Store
+tools/makeicon

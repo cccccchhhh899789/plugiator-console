@@ -1,0 +1,548 @@
+{
+  "plugin": "LightWave",
+  "pc": 102,
+  "cc": [
+    {
+      "cc": "1",
+      "name": "Modulation"
+    },
+    {
+      "cc": "2",
+      "name": "Lfo2 Clock Switch"
+    },
+    {
+      "cc": "3",
+      "name": "PB Range"
+    },
+    {
+      "cc": "4",
+      "name": "Mix Gain"
+    },
+    {
+      "cc": "6",
+      "name": "Common Osc Coarse"
+    },
+    {
+      "cc": "7",
+      "name": "Plugiator Device Volume"
+    },
+    {
+      "cc": "8",
+      "name": "Common Osc Fine"
+    },
+    {
+      "cc": "9",
+      "name": "Common Osc PM Source"
+    },
+    {
+      "cc": "10",
+      "name": "Delay Dry/Wet"
+    },
+    {
+      "cc": "11",
+      "name": "Preset Volume"
+    },
+    {
+      "cc": "12",
+      "name": "Amp Env LVel"
+    },
+    {
+      "cc": "13",
+      "name": "Amp Env Attack"
+    },
+    {
+      "cc": "14",
+      "name": "Amp Env Decay"
+    },
+    {
+      "cc": "15",
+      "name": "Amp Env Sustain"
+    },
+    {
+      "cc": "16",
+      "name": "Amp Env Release"
+    },
+    {
+      "cc": "17",
+      "name": "Vcf Env Attack"
+    },
+    {
+      "cc": "18",
+      "name": "Vcf Env Decay"
+    },
+    {
+      "cc": "19",
+      "name": "Vcf Env Sustain"
+    },
+    {
+      "cc": "20",
+      "name": "Vcf Env Release"
+    },
+    {
+      "cc": "21",
+      "name": "Osc1 PM Depth"
+    },
+    {
+      "cc": "22",
+      "name": "Osc2 Waveform"
+    },
+    {
+      "cc": "23",
+      "name": "Osc2 Coarse"
+    },
+    {
+      "cc": "24",
+      "name": "Osc2 Fine"
+    },
+    {
+      "cc": "25",
+      "name": "Osc2 Grunge"
+    },
+    {
+      "cc": "26",
+      "name": "Osc2 PM Source"
+    },
+    {
+      "cc": "27",
+      "name": "Osc2 PM Depth"
+    },
+    {
+      "cc": "28",
+      "name": "Osc1 Level"
+    },
+    {
+      "cc": "29",
+      "name": "Osc1 Level Mod Source"
+    },
+    {
+      "cc": "30",
+      "name": "Osc1 Level Mod Depth"
+    },
+    {
+      "cc": "31",
+      "name": "Osc1 Balance"
+    },
+    {
+      "cc": "33",
+      "name": "Osc1 Balance Mod Source"
+    },
+    {
+      "cc": "34",
+      "name": "Osc1 Balance Mod Depth"
+    },
+    {
+      "cc": "35",
+      "name": "Osc2 Level"
+    },
+    {
+      "cc": "36",
+      "name": "Osc2 Level Mod Source"
+    },
+    {
+      "cc": "37",
+      "name": "Osc2 Level Mod Depth"
+    },
+    {
+      "cc": "38",
+      "name": "Osc2 Balance"
+    },
+    {
+      "cc": "39",
+      "name": "Osc2 Balance Mod Source"
+    },
+    {
+      "cc": "40",
+      "name": "Osc2 Balance Mod Depth"
+    },
+    {
+      "cc": "41",
+      "name": "Vcf Mode"
+    },
+    {
+      "cc": "42",
+      "name": "Common Osc PM Depth"
+    },
+    {
+      "cc": "43",
+      "name": "CF Mod Source"
+    },
+    {
+      "cc": "44",
+      "name": "CF Mod Depth"
+    },
+    {
+      "cc": "45",
+      "name": "Res Mod Source"
+    },
+    {
+      "cc": "46",
+      "name": "Res Mod Depth"
+    },
+    {
+      "cc": "47",
+      "name": "Vcf1 Type"
+    },
+    {
+      "cc": "48",
+      "name": "Osc1 Waveform"
+    },
+    {
+      "cc": "49",
+      "name": "Osc1 PM Source"
+    },
+    {
+      "cc": "51",
+      "name": "Osc1 Coarse"
+    },
+    {
+      "cc": "52",
+      "name": "Vcf1 CF Mod Source"
+    },
+    {
+      "cc": "53",
+      "name": "Vcf1 CF Mod Depth"
+    },
+    {
+      "cc": "54",
+      "name": "Vcf1 Res Mod Source"
+    },
+    {
+      "cc": "55",
+      "name": "Vcf1 Res Mod Depth"
+    },
+    {
+      "cc": "56",
+      "name": "Vcf2 Type"
+    },
+    {
+      "cc": "57",
+      "name": "Vcf1 Cutoff"
+    },
+    {
+      "cc": "58",
+      "name": "Vcf1 Resonance"
+    },
+    {
+      "cc": "59",
+      "name": "Vcf1 Keyfollow"
+    },
+    {
+      "cc": "60",
+      "name": "Vcf1 Env Depth"
+    },
+    {
+      "cc": "61",
+      "name": "Vcf2 CF Mod Source"
+    },
+    {
+      "cc": "62",
+      "name": "Vcf2 CF Mod Depth"
+    },
+    {
+      "cc": "63",
+      "name": "Vcf2 Res Mod Source"
+    },
+    {
+      "cc": "64",
+      "name": "Sustain Pedal"
+    },
+    {
+      "cc": "66",
+      "name": "Sostenuto"
+    },
+    {
+      "cc": "67",
+      "name": "Soft Pedal"
+    },
+    {
+      "cc": "69",
+      "name": "Lfo1 Phase"
+    },
+    {
+      "cc": "70",
+      "name": "Lfo1 Fade In"
+    },
+    {
+      "cc": "71",
+      "name": "Vcf2 Resonance"
+    },
+    {
+      "cc": "72",
+      "name": "Vcf2 Keyfollow"
+    },
+    {
+      "cc": "73",
+      "name": "Vcf2 Env Depth"
+    },
+    {
+      "cc": "74",
+      "name": "Vcf2 Cutoff"
+    },
+    {
+      "cc": "75",
+      "name": "Pan1"
+    },
+    {
+      "cc": "76",
+      "name": "Pan1 Mod Source"
+    },
+    {
+      "cc": "77",
+      "name": "Pan1 Mod Depth"
+    },
+    {
+      "cc": "78",
+      "name": "Pan2"
+    },
+    {
+      "cc": "79",
+      "name": "Pan2 Mod Source"
+    },
+    {
+      "cc": "80",
+      "name": "Pan2 Mod Depth"
+    },
+    {
+      "cc": "81",
+      "name": "Osc1 Grunge"
+    },
+    {
+      "cc": "82",
+      "name": "Vcf Env TKF"
+    },
+    {
+      "cc": "83",
+      "name": "Vcf Env TVel"
+    },
+    {
+      "cc": "84",
+      "name": "Vcf Env LVel"
+    },
+    {
+      "cc": "85",
+      "name": "Amp Env TKF"
+    },
+    {
+      "cc": "86",
+      "name": "Amp Env TVEL"
+    },
+    {
+      "cc": "87",
+      "name": "Amp Env LVEL"
+    },
+    {
+      "cc": "88",
+      "name": "Lfo1 Waveform"
+    },
+    {
+      "cc": "89",
+      "name": "Lfo1 Rate"
+    },
+    {
+      "cc": "90",
+      "name": "Lfo1 Retrigger"
+    },
+    {
+      "cc": "91",
+      "name": "Chorus Dry/Wet"
+    },
+    {
+      "cc": "92",
+      "name": "Lfo1 Delay"
+    },
+    {
+      "cc": "93",
+      "name": "Synth/ Mic Volume"
+    },
+    {
+      "cc": "94",
+      "name": "Lfo1 Fade Out"
+    },
+    {
+      "cc": "95",
+      "name": "Lfo1 Rate KF"
+    },
+    {
+      "cc": "96",
+      "name": "Lfo1 Rate Mod Source1"
+    },
+    {
+      "cc": "97",
+      "name": "Lfo1 Rate Mod Depth1"
+    },
+    {
+      "cc": "98",
+      "name": "Lfo1 Rate Mod Source2"
+    },
+    {
+      "cc": "99",
+      "name": "Lfo1 Rate Mod Depth2"
+    },
+    {
+      "cc": "100",
+      "name": "Lfo1 Level Mod Source"
+    },
+    {
+      "cc": "101",
+      "name": "Lfo1 Level Mod Depth"
+    },
+    {
+      "cc": "102",
+      "name": "Lfo1 Clock Switch"
+    },
+    {
+      "cc": "103",
+      "name": "Lfo1 Note Length"
+    },
+    {
+      "cc": "104",
+      "name": "Lfo2 Waveform"
+    },
+    {
+      "cc": "105",
+      "name": "Lfo2 Rate"
+    },
+    {
+      "cc": "106",
+      "name": "Lfo2 Retrigger"
+    },
+    {
+      "cc": "107",
+      "name": "Lfo2 Phase"
+    },
+    {
+      "cc": "108",
+      "name": "Lfo2 Delay"
+    },
+    {
+      "cc": "109",
+      "name": "Lfo2 Fade In"
+    },
+    {
+      "cc": "110",
+      "name": "Lfo2 Fade Out"
+    },
+    {
+      "cc": "111",
+      "name": "Lfo2 Rate KF"
+    },
+    {
+      "cc": "112",
+      "name": "Lfo2 Rate Mod Source1"
+    },
+    {
+      "cc": "113",
+      "name": "Lfo2 Rate Mod Depth1"
+    },
+    {
+      "cc": "114",
+      "name": "Lfo2 Rate Mod Source2"
+    },
+    {
+      "cc": "115",
+      "name": "Lfo2 Rate Mod Depth2"
+    },
+    {
+      "cc": "116",
+      "name": "Lfo2 Level Mod Source"
+    },
+    {
+      "cc": "117",
+      "name": "Lfo2 Level Mod Depth"
+    },
+    {
+      "cc": "118",
+      "name": "Lfo2 Note Length"
+    },
+    {
+      "cc": "119",
+      "name": "Delay Feedback"
+    },
+    {
+      "cc": "120",
+      "name": "All Notes Off"
+    },
+    {
+      "cc": "122",
+      "name": "Local Control Off"
+    }
+  ],
+  "pat": [
+    {
+      "pat": "71",
+      "name": "Chorus Rate"
+    },
+    {
+      "pat": "72",
+      "name": "Chorus Phase"
+    },
+    {
+      "pat": "73",
+      "name": "Chorus Depth"
+    },
+    {
+      "pat": "74",
+      "name": "Chorus Feedback"
+    },
+    {
+      "pat": "75",
+      "name": "Chorus/Flanger"
+    },
+    {
+      "pat": "81",
+      "name": "Delay Time Left"
+    },
+    {
+      "pat": "82",
+      "name": "Delay Note Left"
+    },
+    {
+      "pat": "84",
+      "name": "Delay Damp Left"
+    },
+    {
+      "pat": "85",
+      "name": "Delay Level Left"
+    },
+    {
+      "pat": "86",
+      "name": "Time / BPM Switch Left"
+    },
+    {
+      "pat": "90",
+      "name": "Delay Cross"
+    },
+    {
+      "pat": "91",
+      "name": "Delay Time Right"
+    },
+    {
+      "pat": "92",
+      "name": "Right Delay Note"
+    },
+    {
+      "pat": "94",
+      "name": "Delay Damp Right"
+    },
+    {
+      "pat": "95",
+      "name": "Delay Level Right"
+    },
+    {
+      "pat": "96",
+      "name": "Time / BPM SwitchRight"
+    },
+    {
+      "pat": "97",
+      "name": "BPM"
+    },
+    {
+      "pat": "98",
+      "name": "Effects Bypass"
+    },
+    {
+      "pat": "105",
+      "name": "Boost"
+    }
+  ]
+}
